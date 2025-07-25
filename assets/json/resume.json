@@ -6,23 +6,41 @@
     "email": "ga1348@nyu.edu",
     "phone": "+1 (646) 270 8818",
     "url": "https://giorgiarsenadze.github.io",
-    "summary": "A Georgian-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Physics PhD Student & Scientist, Researcher and Lecturer | Experienced in Computational Particle Physics, Biophysics, Cosmology, Computational Physics, Astrophysics, Data Analysis & Machine Learning",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "726 Broadway, room 806",
+      "postalCode": "NY, 10003",
+      "city": "New York",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "linkedin",
+        "username": "Giorgi Arsenadze",
+        "url": "www.linkedin.com/in/giorgiarsenadze"
       }
     ]
   },
   "work": [
+    {
+      "name": "Center for Cosmology and Particle Physics (CCPP), New York University",
+      "position": "Research Assistant in Computational Particle Physics and Phenomenology",
+      "url": "https://cosmo.nyu.edu",
+      "startDate": "2021-09-01",
+      "endDate": "2026-05-01",
+      "summary": "Designed particle physics models to elucidate Dark Matter and other Cosmological Tensions. Developed particle simulations and analyzed extensive experimental data to compare with theoretical findings.Enhanced state-of-the-art computational software, to boost precision and speed for solving cosmological equations",
+      "highlights": ["Data Analysis"],["Data Analysis"],["Data Analysis"],["Data Analysis"],["Data Analysis"]
+    },
+    {
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
