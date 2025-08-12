@@ -18,18 +18,25 @@ My teaching, workshops, and tutorial materials.
 
 ---
 
-## University / Institution Name
+## New York University
 
-### Course Title: *Course Code* — **Term Year**  
-**Role:** Guest Lecturer / TA / Instructor / etc.  
+### 
+General Physics II: GP2_PHYS-UA_12 — 2024 
+**Role:** Lecturer
 
 #### Description  
-A brief overview of what the course covered, your role, and any noteworthy topics or contributions.  
+This course is second half of a two-part introduction to physics intended primarily for
+pre-professional students and for those majoring in a science other than physics. Topics
+include Waves, electric fields, current, magnetic fields, images and lenses. The course
+uses high school algebra, geometry and trigonometry, vectors, and some calculus. Cal-
+culus will be present in lecture, homework and exams. The algebra, geometry, and
+trigonometry are absolutely essential. If some time has elapsed since your last math
+course, or you feel a lack of confidence in this area, you are strongly encouraged to prac-
+tise math before we get dive into this physics course. This course has lecture, recitation,
+homework and laboratory portions.  
 
-**Resources (if applicable):**  
-- [Slides](#)  
-- [Video](#)  
-- [Lecture Notes](#)  
+**Resources:**   
+- [Lecture Notes](https://github.com/GiorgiArsenadze/GP2_PHYS-UA_12)  
 
 ---
 
