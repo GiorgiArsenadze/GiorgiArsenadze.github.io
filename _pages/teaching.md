@@ -14,7 +14,7 @@ My teaching, workshops, and tutorial materials.
 ---
 
 <!-- NYU Course -->
-<div style="border: 2px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1.5rem; background-color: #f9f9f9;">
+<div style="border: 2px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1.5rem; background-color:var(--global-bg-color);">
   <h2 style="margin-top: 0;">New York University</h2>
   <h3>General Physics II: GP2_PHYS-UA_12 — 2024</h3>
   <p><strong>Role:</strong> Lecturer</p>
