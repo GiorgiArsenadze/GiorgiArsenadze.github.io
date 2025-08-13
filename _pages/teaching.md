@@ -41,7 +41,7 @@ My teaching, workshops, and tutorial materials.
 </div>
 
 <!-- Placeholder for Another Course -->
-<div style="border: 2px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1.5rem; background-color: #f9f9f9;">
+<div style="border: 2px solid #ddd; border-radius: 10px; padding: 1rem; margin-bottom: 1.5rem; background-color: var(--global-bg-color);">
   <h2>Another Institution or Course</h2>
   <h3>Course Title: <em>Course Code</em> — <strong>Term Year</strong></h3>
   <p><strong>Role:</strong> …</p>
@@ -58,7 +58,7 @@ My teaching, workshops, and tutorial materials.
 </div>
 
 <!-- Older Courses -->
-<div style="border: 2px solid #ddd; border-radius: 10px; padding: 1rem; background-color: #f9f9f9;">
+<div style="border: 2px solid #ddd; border-radius: 10px; padding: 1rem; background-color: var(--global-bg-color);">
   <h2>Older Courses & Workshops</h2>
   <ul>
     <li><strong>Spring 2014–2015:</strong> <em>CS229: Machine Learning</em> at <strong>KAUST</strong> with Xiangliang Zhang.</li>
