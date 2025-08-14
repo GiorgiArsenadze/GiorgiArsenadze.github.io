@@ -55,7 +55,7 @@
       institution: New York University, NY
       year: 11.2019-05.2026
       description:
-        - Teaching Classes: Dynamics, General Physics I-II, Physics III, Cosmology, The Universe, Introductory Experimental Physics I, Intermediate Experimental Physics II
+        - Teaching Classes':' Dynamics, General Physics I-II, Physics III, Cosmology, The Universe, Introductory Experimental Physics I, Intermediate Experimental Physics II
         - Designed syllabus and coursework for six different classes and met with students to instruct and improve their understanding of the topic through exercises. 
     - title: Mathematics and Physics Teacher
       institution: Vekua and Komarovi School, Tbilisi, Georgia
@@ -93,12 +93,12 @@
         - 2 Gold Medals and 2 Bronze Medals on Georgian National Physics Olympiad
         
         
-- title: Extracurricular Activity
+- title: Outreach 
   type: nested_list
   contents:
     - title: International Society of Georgian Scientists <a href="https://www.youtube.com/channel/UCfWfdvvdmCu50bEbfnyeF-Q/videos">ISGS</a>
       items:
-        - Cofounded a nonprofit organization ISGS, to foster connections among scientists and facilitate the exchange of knowledge between their fields, as well as with the general public. Our initiatives include organizing 8 mentorship programs, inviting decades of speakers to regular webinars, and conferences aimed at promoting interdisciplinary awareness..
+        Cofounded a nonprofit organization ISGS, to foster connections among scientists and facilitate the exchange of knowledge between their fields, as well as with the general public. Our initiatives include organizing 8 mentorship programs, inviting decades of speakers to regular webinars, and conferences aimed at promoting interdisciplinary awareness..
 
 
         
@@ -115,4 +115,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Cooking, Baking, Fishing, Hicking, Traveling, Leatherworking, Fly tying, Gardening.
+    - <u>Hobbies:</u> Cooking, Baking, Fishing, Hiking, Traveling, Leatherworking, Fly tying, Gardening.
