@@ -6,8 +6,8 @@
     - name: Languages
       value: English (Fluent), Georgian (Fluent), German (A1), Russian (A2)
   social:
-  - icon: fas fa-envelope
-    url: "mailto:myemail@example.com"
+    - icon: fas fa-envelope
+      url: "mailto:ga1348@nyu.edu"
     
 - title: Education
   type: time_table
