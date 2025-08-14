@@ -434,7 +434,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-cannibal-dark-matter",
-          title: 'Cannibal Dark matter',
+          title: 'Cannibal Dark Matter',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
