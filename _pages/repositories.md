@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: This is my open-source code from the project Shaping Dark Photon Spectral Distortions. More packages and features are coming soon!
 nav: true
 nav_order: 4
