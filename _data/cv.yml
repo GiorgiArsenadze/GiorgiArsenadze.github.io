@@ -3,8 +3,6 @@
   contents:
     - name: Name
       value: Giorgi Arsenadze
-    - name: Languages
-      value: English (Fluent), Georgian (Fluent), German (A1), Russian (A2)
     - name: Email
       value: <a href="mailto:ga1348@nyu.edu">ga1348@nyu.edu</a>
   social:
@@ -111,6 +109,11 @@
   type: list
   contents:
     - Python, Julia, Mathematica, MATLAB, C, C++, Java, Git.
+    
+- title: Languages
+  type: list
+  contents:
+    - English (Fluent), Georgian (Fluent), German (A1), Russian (A2)
 
 
 - title: Other Interests
