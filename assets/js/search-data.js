@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "This is my open-source code from the project Shaping Dark Photon Spectral Distortions. More packages and features are coming soon!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
