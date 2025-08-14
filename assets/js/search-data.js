@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "This is my open-source code from the project Shaping Dark Photon Spectral Distortions. More packages and features are coming soon!",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-repositories",
+          title: "Repositories",
+          description: "This is my open-source code from the project Shaping Dark Photon Spectral Distortions. More packages and features are coming soon!",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/repositories/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
