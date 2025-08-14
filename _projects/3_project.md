@@ -7,8 +7,8 @@ importance: 3
 category: work
 math: true
 ---
-
-
+Coming soon...
+<!--
 One of the more interesting beyond-CDM models is dark matter that undergoes “cannibalistic” number-changing \$3 \rightarrow 2\$ interactions. These models are referred to as Cannibal Dark Matter (CanDM). To illustrate the phenomenology of CanDM, we use a toy model with the following Lagrangian:
 
 $$
@@ -79,6 +79,8 @@ We implemented CanDM into the CLASS Einstein-Boltzmann solver to integrate these
 </div>
 <div class="caption">
     Shaded regions show excluded parameter space based on structure formation bounds. The blue and green areas represent updated constraints from the Lyman-𝛼 forest and the subhalo mass function (SHMF). These improve upon earlier bounds (purple region). The red region is excluded by galaxy cluster observations requiring $\sigma/m > 1,\mathrm{cm}^2/\mathrm{g}$.
+
+    -->
 </div>
 
 
