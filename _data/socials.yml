@@ -10,7 +10,7 @@
 email: ga1348@nyu.edu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: https://github.com/GiorgiArsenadze
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -47,7 +47,7 @@ scholar_userid: 7tpZJJQAAAAJ # your Google Scholar ID
 linkedin_username: giorgiarsenadze # your LinkedIn user name
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png # can be png, svg, jpg
-  title: Github
-  url: https://github.com/GiorgiArsenadze
+# custom_social: # can be any name here other than the ones already defined above
+#   logo: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png # can be png, svg, jpg
+#   title: Github
+#   url: https://github.com/GiorgiArsenadze
