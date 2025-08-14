@@ -5,6 +5,8 @@
       value: Giorgi Arsenadze
     - name: Languages
       value: English (Fluent), Georgian (Fluent), German (A1), Russian (A2)
+    - name: Email
+      value: <a href="mailto:ga1348@nyu.edu">ga1348@nyu.edu</a>
   social:
     - icon: fas fa-envelope
       url: "mailto:ga1348@nyu.edu"
