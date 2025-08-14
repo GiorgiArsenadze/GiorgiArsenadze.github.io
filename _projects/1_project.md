@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shaping dark photon spectral distortions
+title: Shaping Dark Photon Spectral Distortions
 description:
 img: assets/img/publication_preview/constraints.jpg
 importance: 1
