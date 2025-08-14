@@ -7,9 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-# Teaching
 
-My teaching, workshops, and tutorial materials.
 
 ---
 
