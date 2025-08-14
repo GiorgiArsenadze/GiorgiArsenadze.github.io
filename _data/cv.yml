@@ -5,9 +5,6 @@
       value: Giorgi Arsenadze
     - name: Email
       value: <a href="mailto:ga1348@nyu.edu">ga1348@nyu.edu</a>
-  social:
-    - icon: fas fa-envelope
-      url: "mailto:ga1348@nyu.edu"
     
 - title: Education
   type: time_table
@@ -114,7 +111,6 @@
   type: list
   contents:
     - English (Fluent), Georgian (Fluent), German (A1), Russian (A2)
-
 
 - title: Other Interests
   type: list
