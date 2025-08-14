@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cannibal Dark matter
+title: Cannibal Dark Matter
 description:
 img: assets/img/candm_constraint.JPG
 importance: 3
