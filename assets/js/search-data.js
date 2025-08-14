@@ -438,8 +438,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-coming-soon",
-          title: 'Coming soon...',
+            },},{id: "projects-particles-on-the-rotating-channels-in-the-wormhole-metrics",
+          title: 'Particles on the Rotating Channels in the Wormhole Metrics',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
