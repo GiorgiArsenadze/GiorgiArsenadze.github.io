@@ -451,6 +451,13 @@ ninja.data = [{
           window.open("mailto:%67%61%31%33%34%38@%6E%79%75.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/https://github.com/GiorgiArsenadze", "_blank");
+        },
+      },{
         id: 'social-inspire',
         title: 'Inspire HEP',
         section: 'Socials',
@@ -477,13 +484,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/giorgiarsenadze", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/GiorgiArsenadze", "_blank");
         },
       },{
       id: 'light-theme',
