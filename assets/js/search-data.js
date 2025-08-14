@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
+          title: "Repositories",
           description: "This is my open-source code from the project Shaping Dark Photon Spectral Distortions. More packages and features are coming soon!",
           section: "Navigation",
           handler: () => {
