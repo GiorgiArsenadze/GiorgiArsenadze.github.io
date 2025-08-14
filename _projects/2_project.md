@@ -2,7 +2,7 @@
 layout: page
 title: Anomalous Coarsening of Coalescing Nucleoli in Human Cells
 description: 
-img: assets/img/nucleoli_pic.JPG
+img: assets/img/nuleoli_hela.JPG
 importance: 2
 category: work
 math: true
