@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: GA_Resume_4_1_25_NTA (1).pdf # you can also use external links here
+cv_pdf: GA_10_2025_AC_CV.pdf # you can also use external links here
 description: 
 toc:
   sidebar: right
