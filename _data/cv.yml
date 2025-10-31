@@ -29,10 +29,10 @@
       institution: New York University, NY
       year: 05.2021 - 05.2026
       description:
-        - Designed particle physics models to elucidate Dark Matter and other Cosmological Tensions.
-        - Developed particle simulations and analyzed experimental data to compare with theoretical findings.
-        - Enhanced state-of-the-art computational software, to boost precision and speed for solving cosmological equations.
-
+        - Developed and tested advanced cosmological dark matter models (including Cannibal Dark Matter and Dark Photons) using Python, C++, and the state-of-the-art CLASS evolution solver. 
+        - Built multi-module computational software in Python and C++ to simulate complex dark matter and cosmological phenomena.
+        - Integrated multi-gigabyte observational data from cosmological surveys to constrain parameter spaces, achieving factors of magnitude better limits on dark matter properties
+        -  Optimized computational pipelines on HPC clusters, 20-fold improving calculation speed 20-fold speedup and efficiency by a factor of 10 through refined code structure and parallel computation.
     - title: Research Assistant in Biophysics
       institution: New York University, NY
       year: 05.2020 - 09.2023
