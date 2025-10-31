@@ -54,7 +54,7 @@
       institution: New York University, NY
       year: 11.2019-05.2026
       description:
-        - Teaching Classes':' Dynamics, General Physics I-II, Physics III, Cosmology, The Universe, Introductory Experimental Physics I, Intermediate Experimental Physics II, Observational Astronomy
+        - Teaching Dynamics, General Physics I-II, Physics III, Cosmology, The Universe, Introductory Experimental Physics I, Intermediate Experimental Physics II, Observational Astronomy
         - Designed syllabus and coursework for six different classes and met with students to instruct and improve their understanding of the topic through exercises. 
     - title: Mathematics and Physics Teacher
       institution: Vekua and Komarovi School, Tbilisi, Georgia
@@ -105,8 +105,8 @@
 - title: Programing Languages
   type: list
   contents:
-    - Python, Julia, Mathematica, MATLAB, C, C++, Java, Git.
-    
+    - Python, Julia, C, C++, Java, MATLAB,  Mathematica, Git, Linux, Shell Scripting.
+
 - title: Languages
   type: list
   contents:
