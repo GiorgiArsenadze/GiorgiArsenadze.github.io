@@ -37,32 +37,31 @@
       institution: New York University, NY
       year: 05.2020 - 09.2023
       description:
-        - Developed a theoretical model to explain interactions between nucleoli, within nucleus of HeLa Cell.
-        - Designed and created 3D simulations of ball particle motion to replicate experimental findings.
-        - Contributed to microscope design and modeling to enhance observation limits on intercellular organoids.
-        - Designed and implemented an automated data workflow for selecting, processing, and analyzing terabytes of cell nucleus imaging data.
-        - Invented several new analytical techniques to characterize the dynamics and physics of nucleoli in chromatin media.
+        - Developed a data-driven theoretical and computational model to describe the dynamics of nucleoli—droplet-like organelles within human cell nuclei.
+        - Designed automated image-analysis workflows to process multi-gigabyte nucleolar data from HeLa cells.
+        - Built 3D simulations in MATLAB/Python to study nucleoli dynamics, incorporating spatiotemporally varying interaction forces.
+        - Validated the model by combining experimental microscopy data with simulations to reproduce observed behaviors with less than 5% deviation from empirical measurements.
 
     - title: Clinical Assistant Professor
       institution: New York University, NY
       year: 04.2023-11.2024
       description:
         - Design curriculum and prepare syllabus and course work for General Physics I and II classes.
-        - Give lectures to decades of students. 
+        - Give lectures to 200+ students. 
         - Oversee stuff of 8 people to run laboratory and recitation sessions smoothly.
 
     - title: Teaching Assistant
       institution: New York University, NY
       year: 11.2019-05.2026
       description:
-        - Teaching Classes':' Dynamics, General Physics I-II, Physics III, Cosmology, The Universe, Introductory Experimental Physics I, Intermediate Experimental Physics II
+        - Teaching Classes':' Dynamics, General Physics I-II, Physics III, Cosmology, The Universe, Introductory Experimental Physics I, Intermediate Experimental Physics II, Observational Astronomy
         - Designed syllabus and coursework for six different classes and met with students to instruct and improve their understanding of the topic through exercises. 
     - title: Mathematics and Physics Teacher
       institution: Vekua and Komarovi School, Tbilisi, Georgia
       year: 2016 - 2019
       description:
         - Created curriculum for Physics and Mathematics classes aimed for advanced students to enhance results at Olympiads. 
-        - Successfully guided decades of students to award winning positions at national and international Olympiads in Physics and Mathematics. 
+        - Coached students to national and international Olympiad awards in Physics and Mathematics. 
         - Taught Mathematics to elementary school students.
 
 - title: Open Source Projects
@@ -77,15 +76,16 @@
   contents:
     - year: 2024
       items:
-        - Outstanding Teaching Award
+        - <a href="https://cas.nyu.edu/teaching-awards.html"> Outstanding Teaching Award</a> 
         - Outstanding Graduate Student Instructor Award 
         - JAGA Fellow
+        - <a href="https://www.zurabzhvania.ge/winandlis%20premia.html">Tsinandali Award Laureat</a>
     - year: 2019
       items:
         - MacCracken Fellow
     - year: 2015
-      items:
-        - Knowledge Fund Fellow
+      items: 
+        - <a href="https://en.wikipedia.org/wiki/Knowledge_Fund"> Knowledge Fund Fellow</a>
     - year: 2013-2015
       items:
         - Silver Medal on International Zhautykov Olympiad
