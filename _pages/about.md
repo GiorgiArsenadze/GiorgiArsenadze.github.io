@@ -9,8 +9,8 @@ profile:
   image: Arsenadze_Giorgi_968-APS3-202557686-.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Current residence: Bonn, Germany</p>
-    <p></p>
+    <p>Current residence:</p>
+    <p>Bonn, Germany </p>
     <p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
