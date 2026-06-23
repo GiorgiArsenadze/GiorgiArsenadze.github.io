@@ -68,8 +68,18 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/GiorgiArsenadze/Shaping-Dark-Photon-Spectral-Distortions">Dark Photon Spectral Distortions</a>
-      year: 2022-now
+      year: 2024
       description: Analysis of CMB Spectral Distortion due to Dark Photons with Greens Function Method.
+    - title: <a href="https://github.com/GiorgiArsenadze/job-hunter">JobHunter — Multi-City Job Aggregator</a>
+      year: 2026
+      description: 
+        - A personal job search tool that aggregates listings from Adzuna and generates LinkedIn deep-links across 20 cities 
+        - in Germany and the USA, filtered for English-speaking roles, with free AI-powered CV matching via Groq (Llama 3).
+    - title: <a href="https://github.com/GiorgiArsenadze/titanic-data-analysis-tool">Titanic Survival Analysis — End-to-End Data Science Project</a>
+      year: 2026
+      description: 
+        - A complete data science pipeline built in Python that explores, cleans, visualises, and models the Titanic passenger dataset to predict survival outcomes.
+
 
 - title: Honors and Awards
   type: time_table
